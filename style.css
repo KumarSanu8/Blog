@@ -1,0 +1,43 @@
+.navbar{
+    height: 90px;
+    background-color: rgb(27, 49, 49);
+    text-align: center;
+}
+.nxtin{
+    color:gold;
+    padding:10px;
+    margin:10px;
+    
+}
+
+.hero{
+    color:red;
+    text-align: center;
+    background:url(https://source.unsplash.com/1600x900/?nature,water) no-repeat center;
+    height: 600px;
+}
+
+.mainsection{
+    color: #223b49;
+    font-size:large;
+
+}
+
+.articlebox{
+    display:inline-block;
+    height: 400px;
+    width: 400px;
+    margin:10px;
+}
+
+.learn{
+   
+    padding:10px;
+    color:gold;
+    font-size: large;
+    background-color: #223b49;
+}
+
+.line{
+    margin: 22px;
+}
